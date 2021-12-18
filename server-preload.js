@@ -3,7 +3,7 @@
 
 /* eslint-disable @typescript-eslint/no-var-requires */
 
-const serviceName = 'notionproxy';
+const serviceName = 'woodlab';
 
 function setUpGoogleCloudProfiler() {
   require('@google-cloud/profiler').start({

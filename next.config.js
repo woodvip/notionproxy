@@ -21,8 +21,8 @@ const nextConfig = {
   },
   env: {},
   publicRuntimeConfig: {
-    rootNotionPageId: '6ca2dd5e-2214-4873-8ffa-d634d8ebbb53',
-    rootNotionSpaceId: 'f2b37586-33c0-4236-bab4-a87c12f0d6e9',
+    rootNotionPageId: '624d67d9aed24640b73fd62d247eb93e',
+    rootNotionSpaceId: null,
     gaTraceId: 'G-HDWXJVK15N',
     pageIdsThatHaveThumnail,
   },
